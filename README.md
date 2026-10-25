@@ -11,7 +11,7 @@
 > 숏폼이, 24시간 끝나지 않는 라이브가 됩니다.
 
 - 데모: https://tragatize.log8.kr
-- 서비스 코드(팀 저장소, 개발은 김성재 · 김덕환): https://github.com/IISweetHeartII/tragatize
+- 서비스 코드(개발은 김성재 · 김덕환): [`트라가티제/코드`](트라가티제/코드) 폴더. 팀 저장소 https://github.com/IISweetHeartII/tragatize 를 내 계정에 포크해 둔 것과 연결한 폴더라, 누르면 그 저장소로 넘어갑니다.
 - 제출한 발표자료 2장: https://fdxyyv9wc0un6uzg.public.blob.vercel-storage.com/pitch/__2page-sJvjeZzIFDJjPlrOD2998w82mkGSkD.pdf
 - 대회 결과와 VC 한줄평 전체: https://ambition-for-korea.vercel.app/feedback
 
